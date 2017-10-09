@@ -51,7 +51,5 @@ class UniqueSolver {
 
 let solver = UniqueSolver()
 
-solver.isUnique("bac")
-solver.isUnique("abcdefg")
-solver.isUnique("1231")
-
+print(solver.isUnique("bac"),solver.isUnique("abcdefg"),
+      solver.isUnique("1231"))

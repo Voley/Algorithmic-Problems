@@ -13,3 +13,6 @@ O(n) and O(n) memory
 ```
 O(n) and O(n) memory
 ```
+
+# Installation
+Run `make` to build and run C++ files and run Swift files. Or you can run `.playground` file.
