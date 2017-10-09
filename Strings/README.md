@@ -1,6 +1,6 @@
 # Strings
 
-This folder contains problems about strings.
+This folder contains string problems.
 
 * [Is Unique](IsUnique)
 
