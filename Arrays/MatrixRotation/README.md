@@ -6,11 +6,11 @@ Given an image represented by a NxN matrix, where each pixel in the image is 4 b
 
 # Swift
 ```
-O(n), where n is number of elements in matrix
+O(n), where n is the number of elements in matrix
 ```
 # C++
 ```
-O(n), where n is number of elements in matrix
+O(n), where n is the number of elements in matrix
 ```
 
 # Installation
