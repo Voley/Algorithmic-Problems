@@ -1,22 +1,11 @@
-# Algorithmic problems and excercises
+# Arrays
 
-This repository is a collection of algorithmic problems and solutions to them.
+This folder contains array problems.
 
-* [Strings]
-* [Arrays]
-
-### Todos
- - Add more problems
-
-License
-----
-MIT
+* [Matrix Rotation](Rotation)
 
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
 
-   [Strings]: <Strings/>
-   [Arrays]: <Arrays/>
-   
-
+   [Rotation]: <Arrays/MatrixRotation/>
