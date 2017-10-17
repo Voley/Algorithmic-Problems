@@ -1,16 +1,16 @@
-# URLify
+# String Rotation
 
-Write a method to replace all spaces in a string with "%20". You may assume that the string has sufficient space at the end to hold additional characters, and that you are given the "true" length of the string. (Note: if implementing in Java, please use a character array so that you can perform this operation in place.)
+Assume you have a method isSubstring which checks if one word is a substring of another. Given two strings, s1 and s2, write code to check if s2 is a rotation of s1 using only one call to isSubstring(e.g. "waterbottle" is a rotation of "erbottlewat").
 
 # Solutions:
 
 # Swift
 ```
-O(n) and O(n) memory
+O(n)
 ```
 # C++
 ```
-O(n) - works in place
+O(n)
 ```
 
 # Installation
