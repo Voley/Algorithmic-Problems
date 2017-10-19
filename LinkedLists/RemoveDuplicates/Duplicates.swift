@@ -1,7 +1,7 @@
 /*
- Rotate Matrix: Given an image represented by a NxN matrix,
- where each pixel in the image is 4 bytes, write a method to rotate the image by 90 degrees.
- Can you do this in place?
+ Remove Dups:
+ Write code to remove duplicates from an unsorted linked list.
+ How would you solve this problem if a temporary buffer is not allowed?
  */
 
 //: Playground - noun: a place where people can play
