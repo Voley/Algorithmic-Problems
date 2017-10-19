@@ -17,6 +17,7 @@ class Node<T: Hashable> {
     }
     
     // Hash Table O(n^2) worst, O(n) average, O(n) memory
+    
     func removeDuplicates() {
         var set: Set<T> = Set()
         var prev = self
@@ -34,7 +35,7 @@ class Node<T: Hashable> {
         }
     }
     
-    // Two pointers O(n^2)
+    // Three pointers O(n^2)
     
     func removeDuplicatesTracing() {
         var current: Node<T>? = self

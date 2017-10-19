@@ -13,6 +13,7 @@ O(n^2) without extra buffer
 # C++
 ```
 O(n) and O(n) extra memory
+O(n^2) without extra buffer
 ```
 # To do:
 Add another solution according to https://stackoverflow.com/questions/7685/merge-sort-a-linked-list/3032462#3032462
