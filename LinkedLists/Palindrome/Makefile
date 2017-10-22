@@ -1,0 +1,6 @@
+all:
+	clang++ main.cpp -std=c++11 -o example
+	./example
+	swift Palindrome.swift
+clean:
+	rm example
