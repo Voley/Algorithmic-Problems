@@ -4,7 +4,8 @@ This repository is a collection of algorithmic problems and solutions to them.
 
 * [Strings]
 * [Arrays]
-* [Linked List]
+* [Linked Lists]
+* [Stacks]
 
 ### Todos
  - Add more problems
@@ -21,5 +22,6 @@ MIT
    [Strings]: <Strings/>
    [Arrays]: <Arrays/>
    [Linked List]: <LinkedLists/>
+   [Stacks]: <Stacks/>
    
 
