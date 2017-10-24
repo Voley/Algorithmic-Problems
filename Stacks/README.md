@@ -1,6 +1,6 @@
 # Stacks
 
-This folder contains string problems.
+This folder contains stack problems.
 
 * [Three in one](Three)
 

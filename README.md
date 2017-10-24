@@ -21,7 +21,7 @@ MIT
 
    [Strings]: <Strings/>
    [Arrays]: <Arrays/>
-   [Linked List]: <LinkedLists/>
+   [Linked Lists]: <LinkedLists/>
    [Stacks]: <Stacks/>
    
 
