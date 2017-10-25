@@ -1,0 +1,2 @@
+all:
+	swift Min.swift
