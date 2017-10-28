@@ -1,0 +1,2 @@
+all:
+	swift Plates.swift
