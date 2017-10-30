@@ -6,6 +6,7 @@ This repository is a collection of algorithmic problems and solutions to them.
 * [Arrays]
 * [Linked Lists]
 * [Stacks]
+* [Graphs]
 
 ### Todos
  - Add more problems
@@ -23,5 +24,5 @@ MIT
    [Arrays]: <Arrays/>
    [Linked Lists]: <LinkedLists/>
    [Stacks]: <Stacks/>
-   
+   [Graphs]: <Graphs/>
 
