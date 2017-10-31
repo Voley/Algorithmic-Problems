@@ -7,6 +7,7 @@ This repository is a collection of algorithmic problems and solutions to them.
 * [Linked Lists]
 * [Stacks]
 * [Graphs]
+* [Trees]
 
 ### Todos
  - Add more problems
@@ -25,4 +26,5 @@ MIT
    [Linked Lists]: <LinkedLists/>
    [Stacks]: <Stacks/>
    [Graphs]: <Graphs/>
+   [Trees]: <Trees/>
 

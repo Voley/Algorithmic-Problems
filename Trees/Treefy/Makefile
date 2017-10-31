@@ -1,0 +1,2 @@
+all:
+	swift Treefy.swift
