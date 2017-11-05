@@ -1,0 +1,2 @@
+all:
+	swift Ancestor.swift

@@ -6,5 +6,6 @@ This folder contains trees problems.
 * [List of Depths](List)
 * [Check Balanced](Balanced)
 * [Validate Binary Search Tree](ValidateBST)
-* [Successor](Successor)
+* [Successor](Successor)  
+* [First Common Ancestor](Ancestor)
 
