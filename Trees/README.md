@@ -8,4 +8,5 @@ This folder contains trees problems.
 * [Validate Binary Search Tree](ValidateBST)
 * [Successor](Successor)  
 * [First Common Ancestor](Ancestor)
+* [BST Sequences](Sequences)
 
