@@ -10,4 +10,5 @@ This folder contains trees problems.
 * [First Common Ancestor](Ancestor)
 * [BST Sequences](Sequences)
 * [Check Subtree](Subtree)
+* [Paths with Sum](Paths)
 
