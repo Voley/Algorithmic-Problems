@@ -8,6 +8,7 @@ This repository is a collection of algorithmic problems and solutions to them.
 * [Stacks]
 * [Graphs]
 * [Trees]
+* [Bit Manipulation]
 
 ### Todos
  - Add more problems
@@ -27,4 +28,4 @@ MIT
    [Stacks]: <Stacks/>
    [Graphs]: <Graphs/>
    [Trees]: <Trees/>
-
+   [Bit Manipulation]: <Bits/>
