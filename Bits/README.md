@@ -6,3 +6,4 @@ This folder contains bit manipulation problems.
 * [Binary to String](ToString)
 * [Flip Bit to Win](FlipBit)
 * [Next Number](NextNumber)
+* [Debugger](Explain)
