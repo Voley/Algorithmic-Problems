@@ -13,4 +13,3 @@ func isPowerOfTwo(_ number: Int) -> Bool {
 
 _ = isPowerOfTwo(32)
 _ = isPowerOfTwo(256)
-

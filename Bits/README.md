@@ -7,3 +7,4 @@ This folder contains bit manipulation problems.
 * [Flip Bit to Win](FlipBit)
 * [Next Number](NextNumber)
 * [Debugger](Explain)
+* [Conversion](Conversion)  
