@@ -8,3 +8,4 @@ This folder contains bit manipulation problems.
 * [Next Number](NextNumber)
 * [Debugger](Explain)
 * [Conversion](Conversion)  
+* [Pairwise Swap](Swap)  
