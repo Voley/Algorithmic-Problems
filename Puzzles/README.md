@@ -6,3 +6,4 @@ This folder contains math and logic puzzles.
 * [Basketball](Basketball)  
 * [Dominos](Dominos)  
 * [Ants on a Triangle](Ants)  
+* [Jugs of Water](Water)  
