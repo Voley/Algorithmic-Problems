@@ -3,10 +3,9 @@ You have 20 bottles of pills. 19 bottles have 1.0 gram pills, but one has pills 
 
 # Solutions:
 
-Take an increasing number of pills from each bottle, e.g. 1, 2, 3... 20.
+Take an increasing number of pills from each bottle, e.g. 1, 2, 3... 20.  
 This sum will be `(20 * (20 + 1)) / 2` + some extra from heavier pills
-Index of a bottle with heavier pills is:  
-`(totalSum - sum) / 0.1`
+Index of a bottle with heavier pills is `(totalSum - sum) / 0.1`
 
 # Swift
 
