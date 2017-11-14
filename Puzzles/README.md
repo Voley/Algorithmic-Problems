@@ -7,3 +7,4 @@ This folder contains math and logic puzzles.
 * [Dominos](Dominos)  
 * [Ants on a Triangle](Ants)  
 * [Jugs of Water](Water)  
+* [Blue-Eyed Island](Blue)
