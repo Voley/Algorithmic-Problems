@@ -3,3 +3,4 @@
 This folder contains math and logic puzzles.
 
 * [The Heavy Pill](Heavy)
+* [Basketball](Basketball)
