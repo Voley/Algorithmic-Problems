@@ -8,3 +8,4 @@ This folder contains math and logic puzzles.
 * [Ants on a Triangle](Ants)  
 * [Jugs of Water](Water)  
 * [Blue-Eyed Island](Blue)
+* [The Apocalypse](Apocalypse)
