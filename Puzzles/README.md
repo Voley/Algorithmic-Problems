@@ -12,3 +12,4 @@ This folder contains math and logic puzzles.
 * [Reverse Integer](Reverse)  
 * [The Egg Drop Problem](Egg)  
 * [100 Lockers](Lockers)
+* [Poison](Poison)
