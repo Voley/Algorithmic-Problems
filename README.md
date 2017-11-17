@@ -9,7 +9,8 @@ This repository is a collection of algorithmic problems and solutions to them.
 * [Graphs]
 * [Trees]
 * [Bit Manipulation]
-* [Math and Logic Puzzles]
+* [Logic Puzzles]  
+* [Math Problems]  
 
 ### Todos
  - Add more problems
@@ -30,4 +31,5 @@ MIT
    [Graphs]: <Graphs/>
    [Trees]: <Trees/>
    [Bit Manipulation]: <Bits/>
-   [Math and Logic Puzzles]: <Puzzles/>
+   [Logic Puzzles]: <Puzzles/>
+   [Math Problems]: <Math/>
