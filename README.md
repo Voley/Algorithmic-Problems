@@ -11,6 +11,7 @@ This repository is a collection of algorithmic problems and solutions to them.
 * [Bit Manipulation]
 * [Logic Puzzles]  
 * [Math Problems]  
+* [Object-Oriented Design]  
 
 ### Todos
  - Add more problems
@@ -33,3 +34,4 @@ MIT
    [Bit Manipulation]: <Bits/>
    [Logic Puzzles]: <Puzzles/>
    [Math Problems]: <Math/>
+   [Object-Oriented Design]: <OOD/>  
