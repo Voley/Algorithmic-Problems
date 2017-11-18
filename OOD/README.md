@@ -1,5 +1,5 @@
-# Math and Logic Puzzles
+# Object-Oriented Design
 
-This folder contains math and logic puzzles.
+This folder contains object-oriented design problems.
 
 * [Deck of Cards](Cards)  
