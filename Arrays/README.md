@@ -10,5 +10,6 @@ This folder contains array problems.
 * [Trapping Rain Water](Rain)  
 * [Plus One](PlusOne)  
 * [Max Area of Island](Area)  
+* [Remove Element](RemoveElement)
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
