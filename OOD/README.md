@@ -6,3 +6,5 @@ This folder contains object-oriented design problems.
 * [Call Center](Call)
 * [Jukebox](Jukebox)
 * [Parking Lot](Parking)
+* [Online Book Reader](Reader)  
+* [Jigsaw](Jigsaw)
