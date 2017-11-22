@@ -8,3 +8,4 @@ This folder contains object-oriented design problems.
 * [Parking Lot](Parking)
 * [Online Book Reader](Reader)  
 * [Jigsaw](Jigsaw)
+* [Othello](Othello)
