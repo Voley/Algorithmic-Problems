@@ -9,3 +9,4 @@ This folder contains object-oriented design problems.
 * [Online Book Reader](Reader)  
 * [Jigsaw](Jigsaw)
 * [Othello](Othello)
+* [Chat Server](Chat)
