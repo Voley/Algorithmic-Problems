@@ -5,7 +5,8 @@ Implement a `CircularArray` class that supports an array-like data structure whi
 
 # Swift
 ```
-O()
+insertion - O(1)
+rotation - O(1)
 
 ```
 # Installation
