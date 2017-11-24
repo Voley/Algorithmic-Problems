@@ -6,7 +6,7 @@ Return the index of the first occurrence of needle in haystack, or -1 if needle 
 
 # Swift
 ```
-O(n)
+O(n^2)
 ```
 
 # Installation
