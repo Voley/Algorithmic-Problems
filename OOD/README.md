@@ -10,3 +10,4 @@ This folder contains object-oriented design problems.
 * [Jigsaw](Jigsaw)
 * [Othello](Othello)
 * [Chat Server](Chat)
+* [Hash Table](HashTable)  
