@@ -10,3 +10,4 @@ This folder contains bit manipulation problems.
 * [Conversion](Conversion)  
 * [Pairwise Swap](Swap)  
 * [Draw Line](Draw)  
+* [Single Number](Single)  
