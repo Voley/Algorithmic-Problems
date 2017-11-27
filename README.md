@@ -12,6 +12,7 @@ This repository is a collection of algorithmic problems and solutions to them.
 * [Logic Puzzles]  
 * [Math Problems]  
 * [Object-Oriented Design]  
+* [Recursion and Dynamic Programming]
 
 ### Todos
  - Add more problems
@@ -35,3 +36,6 @@ MIT
    [Logic Puzzles]: <Puzzles/>
    [Math Problems]: <Math/>
    [Object-Oriented Design]: <OOD/>  
+   [Recursion and Dynamic Programming]: <Recursion/>  
+
+   
