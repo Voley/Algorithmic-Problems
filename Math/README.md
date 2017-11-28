@@ -6,3 +6,4 @@ This folder contains math problems.
 * [Self Dividing Numbers](SelfDividing)  
 * [Climbing Stairs](Stairs)
 * [Implement Sqrt(Int)](Sqrt)
+* [Implement pow()](Pow)  
