@@ -7,3 +7,4 @@ This folder contains math problems.
 * [Climbing Stairs](Stairs)
 * [Implement Sqrt(Int)](Sqrt)
 * [Implement pow()](Pow)  
+* [Recursive Multiply](Multiply)  
