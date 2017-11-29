@@ -6,3 +6,4 @@ This folder contains recursion and dynamic programming problems.
 * [Robot in a Grid](Robot)  
 * [Magic Index](MagicIndex)  
 * [Power Set](PowerSet)  
+* [Towers of Hanoi](Hanoi)  
