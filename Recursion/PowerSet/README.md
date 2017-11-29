@@ -5,11 +5,11 @@ Write a method to return all subsets of a set.
 
 # Swift
 ```
-O(log n)
+O(2^n)
 ```
 # C++
 ```
-O(log n)
+O(2^n)
 ```
 
 # Installation
