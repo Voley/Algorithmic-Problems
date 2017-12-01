@@ -28,13 +28,11 @@ void permuteHelper(int n, vector<char>& buffer, vector<string>& result) {
 }
 
 int main() {
-    
-    auto vec = permute("abcd");
+    auto vec = permute("aba");
     for (auto i: vec) {
         std::cout << i << " ";
     }
     std::cout << std::endl;
-    
     return 0;
 }
 

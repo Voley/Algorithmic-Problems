@@ -11,3 +11,4 @@ This folder contains bit manipulation problems.
 * [Pairwise Swap](Swap)  
 * [Draw Line](Draw)  
 * [Single Number](Single)  
+* [Hamming Distance](Hamming)  
