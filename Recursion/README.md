@@ -7,3 +7,4 @@ This folder contains recursion and dynamic programming problems.
 * [Magic Index](MagicIndex)  
 * [Power Set](PowerSet)  
 * [Towers of Hanoi](Hanoi)  
+* [Parens Permutations](Parens)  
