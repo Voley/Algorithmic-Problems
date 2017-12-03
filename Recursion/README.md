@@ -9,3 +9,4 @@ This folder contains recursion and dynamic programming problems.
 * [Towers of Hanoi](Hanoi)  
 * [Parens Permutations](Parens)  
 * [Coins](Coins)  
+* [Eight Queens](Eight)  
