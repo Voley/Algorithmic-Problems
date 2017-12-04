@@ -11,3 +11,4 @@ This folder contains recursion and dynamic programming problems.
 * [Coins](Coins)  
 * [Eight Queens](Eight)  
 * [Stack of Boxes](Boxes)
+* [Island Perimeter](Perimeter)  
