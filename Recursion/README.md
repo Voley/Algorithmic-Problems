@@ -10,3 +10,4 @@ This folder contains recursion and dynamic programming problems.
 * [Parens Permutations](Parens)  
 * [Coins](Coins)  
 * [Eight Queens](Eight)  
+* [Stack of Boxes](Boxes)
