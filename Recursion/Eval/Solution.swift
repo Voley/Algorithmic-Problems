@@ -1,59 +1,57 @@
 /*
-  Stack of Boxes
-    You have a stack of n boxes, with widths w, height h and depths d. The boxes cannot be rotated and can only be stacked on top of one another if each box in the stack is strictly larger than the box above it in width, height and depth. Implement a method to compute the height of the tallest possible stack. The height of a stack is the sum of the heights of each box.
-*/
+ Boolean Evaluation
+ Given a boolean expression consisting of the symbols 0(false), 1(true), & (AND), | (OR) and ^ (XOR), and a desired boolean result value result, implement a function to count the number of wayts of parenthesizing the expression such that it evaluates to result. The expression shold be fully parenthesized(e.g. (0)^(1)) but not extraneously.
+ */
 
-func stack(_ boxes: Array<Box>) -> Int {
-    let sorted = boxes.sorted(by: {$0.height > $1.height})
-    var heights = [Int](repeatElement(0, count: boxes.count))
-    return createStack(sorted, nil, 0, &heights)
-}
-
-func createStack(_ boxes: Array<Box>, _ bottom: Box?, _ offset: Int, _ stackMap: inout Array<Int>) -> Int {
-    if offset >= boxes.count {
+func countEval(_ s: String, _ result: Bool, _ memo: inout Dictionary<String, Int>) -> Int {
+    if s.count == 0 {
         return 0
     }
-    
-    // height with this bottom
-    let newBottom = boxes[offset]
-    var heightWithBottom = 0
-    if bottom == nil || newBottom.canBeAbove(bottom) {
-        if stackMap[offset] == 0 {
-            stackMap[offset] = createStack(boxes, newBottom, offset + 1, &stackMap)
-            stackMap[offset] += newBottom.height
-        }
-        heightWithBottom = stackMap[offset]
+    if s.count == 1 {
+        return stringToBool(s) == result ? 1 : 0
     }
     
-    // without this bottom
-    let heightWithoutBottom = createStack(boxes, bottom, offset + 1, &stackMap)
+    if let val = memo["\(result)" + s] {
+        return val
+    }
     
-    return max(heightWithBottom, heightWithoutBottom)
+    var ways = 0
+    
+    let arr = Array(s)
+    
+    for i in stride(from: 1, to: s.count, by: 2) {
+        let c = arr[i]
+        let left = String(s.suffix(i))
+        let idx = s.index(s.startIndex, offsetBy: i + 1)
+        let right = String(s.suffix(from: idx))
+        let leftTrue = countEval(left, true, &memo)
+        let leftFalse = countEval(left, false, &memo)
+        let rightTrue = countEval(right, true, &memo)
+        let rightFalse = countEval(right, false, &memo)
+        let total = (leftTrue + leftFalse) * (rightTrue + rightFalse)
+        
+        var totalTrue = 0
+        
+        if c == "^" {
+            totalTrue = leftTrue * rightFalse + leftFalse * rightTrue
+        } else if c == "&" {
+            totalTrue = leftTrue * rightTrue
+        } else if c == "|" {
+            totalTrue = leftTrue * rightTrue + leftFalse * rightTrue + leftTrue * rightFalse
+        }
+        let subways = result ? totalTrue : total - totalTrue
+        ways += subways
+    }
+    
+    memo["\(result)" + s] = ways
+    return ways
 }
 
-class Box {
-    var height: Int
-    var width: Int
-    var length: Int
-    
-    func canBeAbove(_ other: Box?) -> Bool {
-        if other == nil {
-            return false
-        }
-        return (other!.height > height) && (other!.width > width) && (other!.length > length)
-    }
-    
-    init(_ w: Int, _ l: Int, _ h: Int) {
-        height = h
-        width = w
-        length = l
-    }
+func stringToBool(_ s: String) -> Bool {
+    return s == "1"
 }
 
-let b1 = Box(10, 10, 10)
-let b2 = Box(4, 4, 4)
-let b3 = Box(3, 3, 3)
-let b4 = Box(2, 2, 2)
-let b5 = Box(1, 1, 1)
+var dict = Dictionary<String, Int>()
 
-print(stack([b3, b4, b1, b2, b5]))
+print(countEval("1^0|0|1", false, &dict))
+
