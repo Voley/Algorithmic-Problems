@@ -8,11 +8,11 @@
 
 # Swift
 ```
-O(n log n)
+O(log n)
 ```
 # C++
 ```
-O(n log n)
+O(log n)
 ```
 
 # Installation
