@@ -3,3 +3,4 @@
 Various sorting related problems.
 
 * [Group Anagrams](Anagrams)  
+* [Search in Rotated Sorted Array](Rotated)  
