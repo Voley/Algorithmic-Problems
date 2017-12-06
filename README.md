@@ -13,6 +13,7 @@ This repository is a collection of algorithmic problems and solutions to them.
 * [Math Problems]  
 * [Object-Oriented Design]  
 * [Recursion and Dynamic Programming]
+* [Sorting]  
 
 ### Todos
  - Add more problems
@@ -37,5 +38,4 @@ MIT
    [Math Problems]: <Math/>
    [Object-Oriented Design]: <OOD/>  
    [Recursion and Dynamic Programming]: <Recursion/>  
-
-   
+   [Sorting]: <Sorting/>  
