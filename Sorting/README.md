@@ -9,3 +9,4 @@ Various sorting related problems.
 * [Sparse Search](Sparse)  
 * [Find Duplicates](Duplicates)  
 * [Guess Number Higher or Lower](Guess)  
+* [Sorted Matrix Search](Matrix)  
