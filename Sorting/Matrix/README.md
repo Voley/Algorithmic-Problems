@@ -1,5 +1,5 @@
-# Sparse Search
-Given a sorted array of strings that is interpersed with empty strings, write a method to find the location of a given string.
+# Sorted Matrix Search
+Given an M x N matrix in which each row and each column is sorted in ascending order, write a method to find an element.
 
 # Solutions:
 

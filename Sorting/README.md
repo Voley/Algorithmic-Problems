@@ -7,3 +7,5 @@ Various sorting related problems.
 * [First Bad Version](First)  
 * [Sorted Search, No Size](Nosize)  
 * [Sparse Search](Sparse)  
+* [Find Duplicates](Duplicates)  
+* [Guess Number Higher or Lower](Guess)  
