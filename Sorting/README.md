@@ -10,3 +10,4 @@ Various sorting related problems.
 * [Find Duplicates](Duplicates)  
 * [Guess Number Higher or Lower](Guess)  
 * [Sorted Matrix Search](Matrix)  
+* [Rank From Stream](Stream)  
