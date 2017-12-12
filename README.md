@@ -14,6 +14,7 @@ This repository is a collection of algorithmic problems and solutions to them.
 * [Object-Oriented Design]  
 * [Recursion and Dynamic Programming]
 * [Sorting]  
+* [C++]    
 
 ### Todos
  - Add more problems
@@ -36,3 +37,4 @@ MIT
    [Object-Oriented Design]: <OOD/>  
    [Recursion and Dynamic Programming]: <Recursion/>  
    [Sorting]: <Sorting/>  
+   [C++]: <Cpp/>  
