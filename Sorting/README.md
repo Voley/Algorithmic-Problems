@@ -11,3 +11,5 @@ Various sorting related problems.
 * [Guess Number Higher or Lower](Guess)  
 * [Sorted Matrix Search](Matrix)  
 * [Rank From Stream](Stream)  
+* [Peaks and Valleys](Peaks)  
+* [Wiggle Sort](Wiggle)  
