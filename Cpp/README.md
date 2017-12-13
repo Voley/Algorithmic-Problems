@@ -2,4 +2,7 @@
   
 C++ practice.  
   
-* [Last K Lines](LastK)    
+* [Last K Lines](LastK)  
+* [Reverse String](Reverse)  
+* [Hash Table vs. STL Map](Hash)  
+* [Virtual Functions](Virtual)  
