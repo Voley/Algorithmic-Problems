@@ -16,9 +16,6 @@ This repository is a collection of algorithmic problems and solutions to them.
 * [Sorting]  
 * [C++]    
 
-### Todos
- - Add more problems
-
 License
 ----
 MIT
