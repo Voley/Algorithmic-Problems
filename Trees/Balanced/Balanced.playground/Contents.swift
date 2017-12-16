@@ -11,57 +11,38 @@ class BinaryTreeNode<T> {
     init(_ item: T) {
         value = item
     }
-    
-    func innerDepths(_ array: inout Array<Int>, _ currentDepth: Int) {
-        if left == nil || right == nil {
-            array.append(currentDepth)
-        }
-        
-        if let l = left {
-            l.innerDepths(&array, currentDepth + 1)
-        }
-        if let r = right {
-            r.innerDepths(&array, currentDepth + 1)
-        }
+
+    func checkBalanced() -> Bool {
+        return heightHelper() != -1;
     }
     
-    func checkBalanced() -> Bool {
-        var array = Array<Int>()
-        innerDepths(&array, 0)
-        var min = Int.max
-        var max = Int.min
-        for i in array {
-            if i < min {
-                min = i
-            }
-            if i > max {
-                max = i
-            }
+    private func heightHelper() -> Int {
+        var leftHeight = 0
+        var rightHeight = 0
+    
+        if let l = left {
+            leftHeight = l.heightHelper()
+        }
+        if let r = right {
+            rightHeight = r.heightHelper()
         }
         
-        print(array)
-        
-        if (max - min) > 1 {
-            return false
+        if leftHeight == -1 || rightHeight == -1 {
+            return -1
         }
-        return true
+        
+        if abs(leftHeight - rightHeight) <= 1 {
+            return max(leftHeight, rightHeight) + 1
+        }
+        return -1
     }
 }
 
-let root2 = BinaryTreeNode(0)
-let left2 = BinaryTreeNode(1)
-let left3 = BinaryTreeNode(2)
-root2.left = left2
-left2.left = left3
-
 let root = BinaryTreeNode(0)
 let left = BinaryTreeNode(1)
-let right = BinaryTreeNode(2)
+let left2 = BinaryTreeNode(2)
 root.left = left
-root.right = right
-root.right?.right = left3
+left.left = left2
+//root.right = left2
 
-print(root2.checkBalanced())
 print(root.checkBalanced())
-
-
