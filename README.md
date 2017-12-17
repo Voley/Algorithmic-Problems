@@ -8,6 +8,7 @@ This repository is a collection of algorithmic problems and solutions to them.
 * [Stacks]
 * [Graphs]
 * [Trees]
+* [Hash Tables]    
 * [Bit Manipulation]
 * [Logic Puzzles]  
 * [Math Problems]  
@@ -28,6 +29,7 @@ MIT
    [Stacks]: <Stacks/>
    [Graphs]: <Graphs/>
    [Trees]: <Trees/>
+   [Hash Tables]: <HashTables/>  
    [Bit Manipulation]: <Bits/>
    [Logic Puzzles]: <Puzzles/>
    [Math Problems]: <Math/>
