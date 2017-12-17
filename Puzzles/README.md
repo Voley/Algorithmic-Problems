@@ -13,3 +13,4 @@ This folder contains math and logic puzzles.
 * [The Egg Drop Problem](Egg)  
 * [100 Lockers](Lockers)
 * [Poison](Poison)
+* [Number Swapper](NumberSwapper)
