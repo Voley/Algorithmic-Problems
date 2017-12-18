@@ -8,3 +8,4 @@ This folder contains math problems.
 * [Implement Sqrt(Int)](Sqrt)
 * [Implement pow()](Pow)  
 * [Recursive Multiply](Multiply)  
+* [Factorial Zeros](Factorial)  
