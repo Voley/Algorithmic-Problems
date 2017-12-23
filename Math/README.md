@@ -9,3 +9,4 @@ This folder contains math problems.
 * [Implement pow()](Pow)  
 * [Recursive Multiply](Multiply)  
 * [Factorial Zeros](Factorial)  
+* [Operations](Operations)  

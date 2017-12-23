@@ -13,4 +13,3 @@ This folder contains trees problems.
 * [Paths with Sum](Paths)  
 * [Longest Word in Dictionary](Longest)  
 * [Maximum Depth of Binary Tree](Max)  
-
