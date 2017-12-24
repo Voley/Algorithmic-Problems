@@ -10,3 +10,4 @@ This folder contains math problems.
 * [Recursive Multiply](Multiply)  
 * [Factorial Zeros](Factorial)  
 * [Operations](Operations)  
+* [Count Primes](Sieve)  
