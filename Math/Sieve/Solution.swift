@@ -1,7 +1,7 @@
 /*
-    Count Primes
-        Count the number of prime numbers less than a non-negative number, n.
-*/
+ Count Primes
+ Count the number of prime numbers less than a non-negative number, n.
+ */
 
 import Foundation
 
@@ -33,4 +33,4 @@ func primeHelper(_ n: Int) -> [Bool] {
     return arr
 }
 
-print(countPrimes(1000))
+countPrimes(10)

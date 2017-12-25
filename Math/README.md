@@ -11,3 +11,4 @@ This folder contains math problems.
 * [Factorial Zeros](Factorial)  
 * [Operations](Operations)  
 * [Count Primes](Sieve)  
+* [Add Digits](AddDigits)
