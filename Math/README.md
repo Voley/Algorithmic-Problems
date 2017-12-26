@@ -12,3 +12,4 @@ This folder contains math problems.
 * [Operations](Operations)  
 * [Count Primes](Sieve)  
 * [Add Digits](AddDigits)
+* [Find the Celebrity](Celebrity)  
