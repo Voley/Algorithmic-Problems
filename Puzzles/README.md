@@ -14,3 +14,4 @@ This folder contains math and logic puzzles.
 * [100 Lockers](Lockers)
 * [Poison](Poison)
 * [Number Swapper](NumberSwapper)
+* [Master Mind](Master)  
