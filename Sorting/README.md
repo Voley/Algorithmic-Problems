@@ -14,3 +14,5 @@ Various sorting related problems.
 * [Peaks and Valleys](Peaks)  
 * [Wiggle Sort](Wiggle)  
 * [Radix Sort](Radix)  
+* [Shortest Unsorted Continuous Subarray](SubArray)  
+* [Sub Sort](SubSort)  

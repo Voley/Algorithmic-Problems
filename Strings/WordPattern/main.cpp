@@ -19,8 +19,7 @@ bool wordPattern(std::string pattern, std::string str) {
     
     std::unordered_map<char, std::string> mc;
     std::unordered_map<std::string, char> mw;
-    
-    
+       
     for (int i = 0; i < pattern.size(); i++) {
         char c = pattern[i];
         std::string w = words[i];
