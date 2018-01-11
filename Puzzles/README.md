@@ -15,3 +15,4 @@ This folder contains math and logic puzzles.
 * [Poison](Poison)
 * [Number Swapper](NumberSwapper)
 * [Master Mind](Master)  
+* [Shuffle](Shuffle)  

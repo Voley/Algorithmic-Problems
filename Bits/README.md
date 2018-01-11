@@ -14,3 +14,5 @@ This folder contains bit manipulation problems.
 * [Hamming Distance](Hamming)  
 * [Sum of Two Integers](Add)  
 * [Number Complement](Complement)  
+* [Number of 1 Bits (Hamming Weight)](HamWeight)  
+* [Read N Characters Given Read4](ReadN)  
