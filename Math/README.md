@@ -16,3 +16,4 @@ This folder contains math problems.
 * [Power of Two](Pow2)    
 * [Rand7 from Rand5](Rand7)  
 * [Add Without Plus](Add)  
+* [Random Set](RandomSet)  
