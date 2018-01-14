@@ -17,3 +17,4 @@ This folder contains math problems.
 * [Rand7 from Rand5](Rand7)  
 * [Add Without Plus](Add)  
 * [Random Set](RandomSet)  
+* [Strobogrammatic Number](Strobo)  
