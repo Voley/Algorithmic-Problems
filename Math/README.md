@@ -18,3 +18,4 @@ This folder contains math problems.
 * [Add Without Plus](Add)  
 * [Random Set](RandomSet)  
 * [Strobogrammatic Number](Strobo)  
+* [Count of 2s](Count2)  
