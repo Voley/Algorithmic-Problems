@@ -8,3 +8,4 @@ This folder contains hash table problems.
 * [Ransom Note](Ransom)  
 * [Intersection of Two Arrays](Intersection)  
 * [Contains Duplicate](Duplicate)  
+* [Longest Consecutive Sequence](LongestSeq)  
