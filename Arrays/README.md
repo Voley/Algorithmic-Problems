@@ -30,3 +30,5 @@ This folder contains array problems.
 * [Largest Number At Least Twice of Others](LargestTwice)
 * [Missing Number](MissingNum)  
 * [Letters and Numbers](LetNum)  
+* [Container With Most Water](Water)  
+* [Increasing Triplet Subsequence](Triplet)  
