@@ -19,3 +19,4 @@ This folder contains math problems.
 * [Random Set](RandomSet)  
 * [Strobogrammatic Number](Strobo)  
 * [Count of 2s](Count2)  
+* [Ugly Number II](Ugly)  
