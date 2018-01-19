@@ -20,3 +20,4 @@ This folder contains math problems.
 * [Strobogrammatic Number](Strobo)  
 * [Count of 2s](Count2)  
 * [Ugly Number II](Ugly)  
+* [Excel Sheet Column Number](Excel)  
