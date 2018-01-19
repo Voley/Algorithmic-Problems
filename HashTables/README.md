@@ -9,3 +9,4 @@ This folder contains hash table problems.
 * [Intersection of Two Arrays](Intersection)  
 * [Contains Duplicate](Duplicate)  
 * [Longest Consecutive Sequence](LongestSeq)  
+* [Sentence Similarity](Sen)  
