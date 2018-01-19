@@ -15,3 +15,4 @@ This folder contains trees problems.
 * [Maximum Depth of Binary Tree](Max)  
 * [Invert Binary Tree](Invert)  
 * [Minimum Depth of Binary Tree](Min)  
+* [Sum of Left Leaves](SumLeaves)  
