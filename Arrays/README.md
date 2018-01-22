@@ -33,3 +33,4 @@ This folder contains array problems.
 * [Container With Most Water](Water)  
 * [Increasing Triplet Subsequence](Triplet)  
 * [Best Time to Buy and Sell Stock II](SellStock)  
+* [Valid Word Square](ValidWordSquare)  
