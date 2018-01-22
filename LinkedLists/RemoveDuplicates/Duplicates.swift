@@ -4,8 +4,6 @@
  How would you solve this problem if a temporary buffer is not allowed?
  */
 
-//: Playground - noun: a place where people can play
-
 import Foundation
 
 class Node<T: Hashable> {
