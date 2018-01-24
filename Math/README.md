@@ -21,3 +21,4 @@ This folder contains math problems.
 * [Count of 2s](Count2)  
 * [Ugly Number II](Ugly)  
 * [Excel Sheet Column Number](Excel)  
+* [Construct the Rectangle](Construct)  
