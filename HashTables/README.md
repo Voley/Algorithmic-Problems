@@ -10,3 +10,4 @@ This folder contains hash table problems.
 * [Contains Duplicate](Duplicate)  
 * [Longest Consecutive Sequence](LongestSeq)  
 * [Sentence Similarity](Sen)  
+* [Find Anagram Mappings](AnagramMappings)  
