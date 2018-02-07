@@ -17,3 +17,4 @@ This folder contains trees problems.
 * [Minimum Depth of Binary Tree](Min)  
 * [Sum of Left Leaves](SumLeaves)  
 * [Two Sum IV - Input is a BST](TwoSum4)  
+* [Minimum Absolute Difference in BST](MinDiff)  
