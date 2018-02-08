@@ -36,3 +36,4 @@ This folder contains array problems.
 * [Valid Word Square](ValidWordSquare)  
 * [Meeting Rooms](Meeting)  
 * [Valid Sudoku](ValidSudoku)  
+* [Shortest Word Distance](Short)  
