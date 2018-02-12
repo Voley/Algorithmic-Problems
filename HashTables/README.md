@@ -11,3 +11,4 @@ This folder contains hash table problems.
 * [Longest Consecutive Sequence](LongestSeq)  
 * [Sentence Similarity](Sen)  
 * [Find Anagram Mappings](AnagramMappings)  
+* [Contains Duplicate II](Duplicate2)  
