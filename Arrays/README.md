@@ -37,3 +37,4 @@ This folder contains array problems.
 * [Meeting Rooms](Meeting)  
 * [Valid Sudoku](ValidSudoku)  
 * [Shortest Word Distance](Short)  
+* [Assign Cookies](Cookies)  
