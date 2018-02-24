@@ -39,3 +39,4 @@ This folder contains array problems.
 * [Shortest Word Distance](Short)  
 * [Assign Cookies](Cookies)  
 * [Product of Array Except Self](Product)  
+* [Merge Intervals](MergeIntervals)  
