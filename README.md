@@ -16,6 +16,7 @@ This repository is a collection of algorithmic problems and solutions to them.
 * [Recursion and Dynamic Programming]
 * [Sorting]  
 * [C++]    
+* [Dynamic Programming]
 
 License
 ----
@@ -37,5 +38,6 @@ MIT
    [Recursion and Dynamic Programming]: <Recursion/>  
    [Sorting]: <Sorting/>  
    [C++]: <Cpp/>  
+   [Dynamic Programming]: <Dynamic Programming/>  
 
    
