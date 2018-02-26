@@ -40,3 +40,4 @@ This folder contains array problems.
 * [Assign Cookies](Cookies)  
 * [Product of Array Except Self](Product)  
 * [Merge Intervals](MergeIntervals)  
+* [Next Greater Element I](Next)  
