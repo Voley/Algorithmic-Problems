@@ -17,3 +17,4 @@ This folder contains recursion and dynamic programming problems.
 * [Number of Islands](Islands)  
 * [Min Cost Climbing Stairs](Stairs)  
 * [Word Break](Word)  
+* [Serialize and Deserialize Binary Tree](Serialize)  
