@@ -13,7 +13,8 @@ This repository is a collection of algorithmic problems and solutions to them.
 * [Logic Puzzles]  
 * [Math Problems]  
 * [Object-Oriented Design]  
-* [Recursion and Dynamic Programming]
+* [Recursion]  
+* [Dynamic Programming]  
 * [Sorting]  
 * [C++]    
 
@@ -34,7 +35,8 @@ MIT
    [Logic Puzzles]: <Puzzles/>
    [Math Problems]: <Math/>
    [Object-Oriented Design]: <OOD/>  
-   [Recursion and Dynamic Programming]: <Recursion/>  
+   [Dynamic Programming]: <Dynamic/>  
+   [Recursion]: <Recursion/>  
    [Sorting]: <Sorting/>  
    [C++]: <Cpp/>  
 
