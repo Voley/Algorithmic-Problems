@@ -32,6 +32,7 @@ This folder contains string problems.
 * [Find Smallest Letter Greater Than Target](NextGreatest)  
 * [Reverse Words in a String II](ReverseWords)  
 * [Encode and Decode TinyURL](Encode)  
+* [Palindromic Substrings](PalS)  
 
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
