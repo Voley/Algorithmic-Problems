@@ -22,3 +22,4 @@ This folder contains math problems.
 * [Ugly Number II](Ugly)  
 * [Excel Sheet Column Number](Excel)  
 * [Construct the Rectangle](Construct)  
+* [Rectangle Intersection](RectangleIntersect)  
