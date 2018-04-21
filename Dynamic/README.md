@@ -8,3 +8,4 @@ This folder contains recursion and dynamic programming problems.
 * [Simple Stairs](SimpleStairs)  
 * [Cutting Rod](Rod)  
 * [House Robber](Robber)  
+* [Maximum Length of Pair Chain](MaxPair)  

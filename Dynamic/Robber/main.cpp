@@ -19,5 +19,6 @@ int main() {
     std::cout << rob({1, 2, 3, 4}) << std::endl;
     std::cout << rob({1, 2, 3}) << std::endl;
     std::cout << rob({5, 1, 5, 11}) << std::endl;
+    std::cout << rob({1, 5, 2, 3, 10}) << std::endl;
     return 0;
 }
