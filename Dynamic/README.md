@@ -11,3 +11,4 @@ This folder contains recursion and dynamic programming problems.
 * [Maximum Length of Pair Chain](MaxPair)  
 * [0-1 Knapsack](01Knapsack)  
 * [Longest common subsequence](CommonSubseq)  
+* [Longest Common Substring](Substring)  
