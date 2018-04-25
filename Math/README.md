@@ -23,3 +23,4 @@ This folder contains math problems.
 * [Excel Sheet Column Number](Excel)  
 * [Construct the Rectangle](Construct)  
 * [Rectangle Intersection](RectangleIntersect)  
+* [Toeplitz Matrix](Toeplitz)  
